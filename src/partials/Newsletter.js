@@ -39,8 +39,9 @@ function Newsletter() {
 
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
-                <h3 className="h3 text-white mb-2">Powering your business</h3>
-                <p className="text-gray-300 text-lg mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit nemo expedita voluptas culpa sapiente.</p>
+                <h3 className="h3 text-white mb-2">Building your dreams</h3>
+                <p className="text-gray-300 text-lg mb-6">Let us revamp your audio experience for one week. No obligations. No funny business.
+                We think our work speaks for itself.</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">

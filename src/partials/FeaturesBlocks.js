@@ -13,8 +13,8 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">How Simple works</h2>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h2 className="h2 mb-4">How we work</h2>
+            <p className="text-xl text-gray-600">Our team of experts dives deep into your story, distilling the essence, converting it into ear candy.</p>
           </div>
 
           {/* Items */}
@@ -34,7 +34,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Initial Contact</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">Who are you? What moves you? How can we help?</p>
             </div>
 
             {/* 2nd item */}
@@ -50,7 +50,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Discovery Session</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">What's your deepest desire? What if your dreams could come true? Tell us what you'd do with a magic wand.</p>
             </div>
 
             {/* 3rd item */}
@@ -65,7 +65,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Contracting</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">We define the scope of our collaboration.</p>
             </div>
 
             {/* 4th item */}
@@ -82,7 +82,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>              
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Fast Prototyping</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">We "yes, and" our way to success.</p>
             </div>
 
             {/* 5th item */}
@@ -97,7 +97,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Design Phase</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">Watch your world come to life. Iterate.</p>
             </div>
 
             {/* 6th item */}
@@ -114,7 +114,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Develop & Launch</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">We guide you through every step of your special launch. We stick around for the after party, post-mortem, and the next phase.</p>
             </div>
 
           </div>

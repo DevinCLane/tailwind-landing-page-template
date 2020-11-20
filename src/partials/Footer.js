@@ -33,22 +33,22 @@ function Footer() {
 
           {/* 2nd block */}
           <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-            <h6 className="text-gray-800 font-medium mb-2">Products</h6>
+            <h6 className="text-gray-800 font-medium mb-2">Services</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Web Studio</Link>
+                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">AX</Link>
               </li>
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">DynamicBox Flex</Link>
+                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Immersive Audio</Link>
               </li>
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Programming Forms</Link>
+                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">VR</Link>
               </li>
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Integrations</Link>
+                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Custom Tech & Integrations</Link>
               </li>
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Command-line</Link>
+                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">CustomLive experience</Link>
               </li>                            
             </ul>
           </div>
@@ -58,10 +58,10 @@ function Footer() {
             <h6 className="text-gray-800 font-medium mb-2">Resources</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Documentation</Link>
+                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Are you listening?</Link>
               </li>
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Tutorials & Guides</Link>
+                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Psychoacoustics of experience</Link>
               </li>
               <li className="mb-2">
                 <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Blog</Link>
@@ -152,7 +152,7 @@ function Footer() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">Made by <a className="text-blue-600 hover:underline" href="https://cruip.com/">Cruip</a>. All rights reserved.</div>
+          <div className="text-sm text-gray-600 mr-4">Oh Piglet Audio. Design by <a className="text-blue-600 hover:underline" href="https://cruip.com/">Cruip</a>. All rights reserved.</div>
 
         </div>
 
